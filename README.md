@@ -18,8 +18,8 @@
 
 Cсылка на хранилище данных: 
 https://storage.atlex.cloud
-логин 7171_public
-пароль PQ+f0rAq3DW*B0)o%GsP
+логин  -  7171_public
+пароль - PQ+f0rAq3DW*B0)o%GsP
 
 Терминология:
 https://docs.google.com/document/d/1E-NRE9wCCiHcCMs5mMKYqFccXu65clNxdoP19WisYt0/edit?usp=sharing
