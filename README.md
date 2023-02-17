@@ -15,3 +15,11 @@
 На выходе вероятность целевого действия пользователя с точностью предсказания не менее 80%.
 Требования к интеграционной части
  Обращение к модели с помощью стороннего API.
+
+Cсылка на хранилище данных: 
+https://storage.atlex.cloud
+логин 7171_public
+пароль PQ+f0rAq3DW*B0)o%GsP
+
+Терминология:
+https://docs.google.com/document/d/1E-NRE9wCCiHcCMs5mMKYqFccXu65clNxdoP19WisYt0/edit?usp=sharing
